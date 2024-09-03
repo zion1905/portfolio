@@ -1,0 +1,358 @@
+body{
+   margin:0px ;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   overflow-x:hidden;
+   
+}
+header {
+    background-color:#7780ae;/* For browsers that do not support gradients*/
+    background-image: linear-gradient(#7780AE,white);
+    font-size: 50px;
+    text-align:center;
+    margin-bottom: 100px;
+    position:relative;
+}
+img.light{
+    position: relative;
+    right: 20%;
+    width: 20%;
+     }
+     img.image{
+        position: relative;
+        left: 20%;
+        width: 20%;
+     }
+    img.focus{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+        position: relative;
+        bottom: 500px;
+    }
+    nav{
+  display:grid;
+  grid-template-columns: 150px 300px 150px 150px 150px;
+  justify-content: end;
+  gap:20px;
+  position: relative;
+  bottom: 800px;
+ }
+ nav a{
+   text-decoration: none;
+   color:white;
+ }
+ .me{
+   text-align: center;
+   font-size: 50px;
+   position: relative;
+   bottom: 250px;
+   font-family:  "Open Sans", sans-serif;
+}
+ .hi{
+  color:#5e5e63;
+  position: relative;
+  right: 230px;
+font-size: 100px;
+ }
+ .color{
+    color:#44494f;
+    position: relative;
+    right: 80px;
+    font-size: 100px;
+ }
+.my
+ {
+    color:#b4b5c1;
+    position:relative;
+    right:150px;
+    font-size:20px;
+    letter-spacing:10px;
+ }
+ button{
+    background-color:#695aa6;
+    border:none;
+    color:white;
+    padding:15px;
+    margin: 100px;
+    font-weight: 100px;
+    margin: 1px solid;
+    font-size: xx-large;
+    display:inline-block;
+    border-radius: 35px;
+    position: relative;
+    bottom:300px;
+    left:800px;
+ }
+ #About{
+    text-align:center;
+    font-size: 80px;
+    color:#6962ae;
+    margin-top: 50px;
+ }
+ p{
+   text-align: end;
+   font-weight: bold;
+   font-size: 30px;
+   position:relative;
+   bottom: 500px;
+}
+#Skills{
+    text-align: center;
+    font-size:  50px;
+}
+.link{
+   color: #6962AE;
+   font-size:100px;
+}
+.div{
+   color:#707070;
+   text-align: center;
+   font-size: 20px;
+}
+.contact{
+   text-align:center;
+   font-weight: bold;
+   color:#6962ae;
+   font-size:40px;
+}
+.work{
+   text-align: center;
+}
+.hello{
+   width: 70vw;
+   margin:0px auto;
+}
+.us{
+   text-align:center;
+}
+.us{
+   text-align: left ;
+}
+    body{
+   margin:0px ;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header {
+    background-color:#7780ae;/* For browsers that do not support gradients*/
+    background-image: linear-gradient(#7780AE,white);
+    font-size: 50px;
+    text-align:center;
+    margin-bottom: 100px;
+    position:relative;
+}
+img.light{
+    position: relative;
+    right: 20%;
+    width: 20%;
+     }
+     img.image{
+        position: relative;
+        left: 20%;
+        width: 20%;
+     }
+    img.focus{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+        position: relative;
+        bottom: 500px;
+    }
+    nav{
+  display:grid;
+  grid-template-columns: 150px 300px 150px 150px 150px;
+  justify-content: end;
+  gap:20px;
+  position: relative;
+  bottom: 800px;
+ }
+ nav a{
+   text-decoration: none;
+   color:white;
+ }
+ .me{
+   text-align: center;
+   font-size: 50px;
+   position: relative;
+   bottom: 300px;
+   font-family:  "Open Sans", sans-serif;
+}
+ .hi{
+  color:#5e5e63;
+  position: relative;
+  right: 230px;
+font-size: 100px;
+ }
+ .color{
+    color:#44494f;
+    position: relative;
+    right: 80px;
+    font-size: 100px;
+ }
+.my
+ {
+    color:#b4b5c1;
+    position:relative;
+    right:150px;
+    font-size:20px;
+    letter-spacing:10px;
+ }
+ button{
+    background-color:#695aa6;
+    border:none;
+    color:white;
+    padding:15px;
+    margin: 100px;
+    font-weight: 100px;
+    margin: 1px solid;
+    font-size: xx-large;
+    display:inline-block;
+    border-radius: 35px;
+    position: relative;
+    bottom:300px;
+    left:800px;
+ }
+ #About{
+    text-align:center;
+    font-size: 80px;
+    color:#6962ae;
+ }
+ p{
+   text-align: end;
+   font-weight: bold;
+   font-size: 30px;
+   position:relative;
+   bottom: 500px;
+}
+#Skills{
+    text-align: center;
+    font-size:  50px;
+}
+.link{
+   color: #6962AE;
+   font-size:100px;
+}
+.div{
+   color:#707070;
+   text-align: center;
+   font-size: 20px;
+}
+.contact{
+   text-align:center;
+   font-weight: bold;
+   color:#6962ae;
+   font-size:40px;
+}
+.work{
+   text-align: center;
+}
+.kill{
+   width: 70vw;
+   margin:0px auto;
+}
+.us{
+   text-align:center;
+}
+.us{
+   text-align: left ;
+}body{
+   margin:0px ;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header {
+    background-color:#7780ae;/* For browsers that do not support gradients*/
+    background-image: linear-gradient(#7780AE,white);
+    font-size: 50px;
+    text-align:center;
+    margin-bottom: 100px;
+    position:relative;
+}
+img.light{
+    position: relative;
+    right: 20%;
+    width: 20%;
+     }
+     img.image{
+        position: relative;
+        left: 20%;
+        width: 20%;
+     }
+    img.focus{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+        position: relative;
+        bottom: 500px;
+    }
+    nav{
+  display:grid;
+  grid-template-columns: 150px 300px 150px 150px 150px;
+  justify-content: end;
+  gap:20px;
+  position: relative;
+  bottom: 800px;
+ }
+ nav a{
+   text-decoration: none;
+   color:white;
+ }
+ .me{
+   text-align: center;
+   font-size: 50px;
+   position: relative;
+   bottom: 300px;
+   font-family:  "Open Sans", sans-serif;
+}
+ .hi{
+  color:#5e5e63;
+  position: relative;
+  right: 230px;
+font-size: 100px;
+ }
+ .color{
+    color:#44494f;
+    position: relative;
+    right: 80px;
+    font-size: 100px;
+ }
+.my
+ {
+    color:#b4b5c1;
+    position:relative;
+    right:150px;
+    font-size:20px;
+    letter-spacing:10px;
+ }
+ button{
+    background-color:#695aa6;
+    border:none;
+    color:white;
+    padding:15px;
+    margin: 100px;
+    font-weight: 100px;
+    margin: 1px solid;
+    font-size: xx-large;
+    display:inline-block;
+    border-radius: 35px;
+    position: relative;
+    bottom:300px;
+    left:800px;
+ }
+ #About{
+    text-align:right;
+    font-size: 80px;
+    color:#6962ae;
+ }
+ p{
+   text-align: end;
+   font-weight: bold;
+   font-size: 30px;
+   position:relative;
+   bottom: 500px;
+}
+.link{
+   display:flex;
+   justify-content: space-evenly;
+}
