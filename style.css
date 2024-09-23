@@ -14,7 +14,8 @@ header {
    background-image: linear-gradient(#7780AE, white);
    font-size: 50px;
    text-align: center;
-   display: flex;flex-direction: column;
+   display: flex;
+   flex-direction: column;
     margin-bottom: 20px;
   
    width: 100vw;
@@ -46,6 +47,7 @@ header {
    display: flex;
    justify-content: end;
    right:50px;
+   margin-right: 20px;
 }
 
 nav {
@@ -81,13 +83,13 @@ nav a {
    justify-content: center;
    color:#666;
 }
-#Home{
-   /* padding: 500px; */
-   margin: 50px;
-   display: flex;
+/* #Home{
+    padding: 500px;
    
-}
-
+   
+ margin: 50px;
+   display: flex;
+} */
 
 
  #About {
@@ -208,12 +210,6 @@ height: 200px;
 .grid {
    display: grid;
    grid-template-columns: repeat(auto-fill,minmax(50px,445px)); 
-  
-      /* display: flex;
-      flex-wrap: wrap;
-      justify-content: space-evenly; */
-      
-  
    margin-left: 100px;
    gap:20px;
    border-radius:solid #695aa6;
@@ -272,7 +268,7 @@ footer p {
    border-radius: 50px;
    font-size: 40px;
    border:1px solid black;
-   margin-left: 10px;
+   margin-left: 80px;
    margin-right: 10px;
 }
 .social-icons {
