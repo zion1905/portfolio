@@ -82,8 +82,9 @@ nav a {
    color:#666;
 }
 #Home{
-   padding: 500px;
+   /* padding: 500px; */
    margin: 50px;
+   display: flex;
    
 }
 
@@ -341,8 +342,9 @@ background-color: #6962ae;
 
 }
 .center{
-position:relative;
-right:30%
+/* position:relative; */
+/* right:30%; */
+margin-right: 500px;
 }
 
 .item2:hover{
@@ -355,7 +357,7 @@ right:30%
    transform: scale(1.2);
 }
 .ani{
-   position: relative;
+   /* position: relative; */
    top:250px;
    
 }
@@ -381,3 +383,17 @@ right:30%
    transition: 0.5s;
    scale: 0.9;
 }
+@media(max-width: 750px) {
+   .light{
+      position:relative;
+      left:-170px;
+      right: 0px;
+      top:0;
+   }
+   #contact{
+      display:flex;
+      flex-wrap: wrap;
+   }
+}
+
+   
