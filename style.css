@@ -95,7 +95,8 @@ nav a {
    padding-top: 80px;
    font-size: 80px;
    color:#6A47FF;
-   text-shadow:8px 15px 3px #6962ae;
+   /* text-shadow:8px 15px 3px #6962ae; */
+   
    
  }
 #aut{
@@ -373,4 +374,10 @@ right:30%
   filter: grayscale(0);
 
 }
-
+.btn:active{
+   transition: 0.5s;
+   scale: 0.9;
+}.but:active{
+   transition: 0.5s;
+   scale: 0.9;
+}
