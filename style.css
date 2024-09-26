@@ -239,9 +239,7 @@ height: 200px;
 }   
 .grid {
    display: grid;
-   /* grid-template-columns: repeat(auto-fill,minmax(50px,445px));  */
    grid-template-columns: 1fr 1fr 1fr;
-  
    border-radius:solid #6A47FF;
    box-shadow:solid black;
 
